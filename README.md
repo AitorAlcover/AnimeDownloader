@@ -41,9 +41,8 @@ La app incluye:
 
 - Barra de búsqueda
 - Lista de resultados con scroll
-- Información del episodio o enlace
 - Botón de descarga directa
-- Opcional: selección de calidad/servidor si la web lo permite
+- Opcional: selección de calidad/servidor si la web lo permite (TODO)
 
 > 💡 Puedes modificar el script fácilmente para adaptarlo a tu propia fuente o estilo.
 
