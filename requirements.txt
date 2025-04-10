@@ -1,0 +1,4 @@
+PyQt5
+requests
+mega.py
+beautifulsoup4
