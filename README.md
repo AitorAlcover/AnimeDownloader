@@ -53,8 +53,8 @@ La app incluye:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/TripleA26/anime-downloader-gui.git
-cd anime-downloader-gui
+git clone https://github.com/AitorAlcover/AnimeDownloader.git
+cd AnimeDownloader
 ```
 2.Instala las dependencias necesarias:
 ```bash
